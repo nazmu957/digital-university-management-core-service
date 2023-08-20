@@ -12,7 +12,7 @@ datasource db {
 
 model AcademicSemester {
   id         String    @id @default(uuid())
-  year       String //here have issue
+  year       String //here have issue with interger or string value
   title      String
   code       String
   startMonth String
