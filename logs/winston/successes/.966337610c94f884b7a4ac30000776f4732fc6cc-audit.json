@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/.966337610c94f884b7a4ac30000776f4732fc6cc-audit.json",
+    "files": [
+        {
+            "date": 1692532043148,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-20-08-17-success.log",
+            "hash": "2da1beeb9c4daa3cee56c4d556d39c2c0ff705056b0354673db6e4534b4d990e"
+        },
+        {
+            "date": 1692533109380,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-20-08-18-success.log",
+            "hash": "214f4567306acc0a56e06c1417a113d9d5b0cbe1b500b809b7195ea705b8ca8e"
+        }
+    ],
+    "hashType": "sha256"
+}

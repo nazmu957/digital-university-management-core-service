@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/.0fdcb9c85a6fcea064123b515e25fc3118a96ac4-audit.json",
+    "files": [
+        {
+            "date": 1692532043152,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-20-08-17-error.log",
+            "hash": "a3c3e581a89654c9d700d6bfa0dd6f9fc9f0b3e7fee77ca7ee534412a750945b"
+        },
+        {
+            "date": 1692533109383,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-20-08-18-error.log",
+            "hash": "5c55f6630f75f57e8b5d0602ea6f984d9789032f38c0562b52c386d5a5686084"
+        }
+    ],
+    "hashType": "sha256"
+}
