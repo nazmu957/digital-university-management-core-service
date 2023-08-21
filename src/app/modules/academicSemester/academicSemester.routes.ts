@@ -1,11 +1,16 @@
  import  express from 'express'
 import { AcademicSemesterController } from './academicSemester.controller';
+import validateRequest from '../../middlewares/validateRequest';
+import { AcademicSemesterValidation } from './academicSemesrter.validation';
  
  
  
  
  const router = express.Router();
-
- router.post('/', AcademicSemesterController.insertIntoDB)
+ router.get('/',AcademicSemesterController.getAllFromDB)
+ router.post(
+    '/',
+    validateRequest(AcademicSemesterValidation.create),
+    AcademicSemesterController.insertIntoDB)
 
  export const AcademicSemesterRoutes = router;

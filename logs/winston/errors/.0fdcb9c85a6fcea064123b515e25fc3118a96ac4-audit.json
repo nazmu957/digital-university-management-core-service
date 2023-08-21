@@ -14,6 +14,31 @@
             "date": 1692533109383,
             "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-20-08-18-error.log",
             "hash": "5c55f6630f75f57e8b5d0602ea6f984d9789032f38c0562b52c386d5a5686084"
+        },
+        {
+            "date": 1692578675124,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-21-08-06-error.log",
+            "hash": "bd0c77afa78065f5af31cad79213b7eb20c270b46feccdd7000220f4e8280619"
+        },
+        {
+            "date": 1692579743650,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-21-08-07-error.log",
+            "hash": "960a0aa7ed1fce049e92dc45b4cc780b5ca10cd6a51ff460c94132fe112afafb"
+        },
+        {
+            "date": 1692583278625,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-21-08-08-error.log",
+            "hash": "be64fec2b11d7987cf560dd8a3cf2680d94a38c584a63c295205030387a65e7f"
+        },
+        {
+            "date": 1692586800666,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-21-08-09-error.log",
+            "hash": "214bdcd789062755f781ca1fbb193882cbd6b0772c2cf5a8de18d898ff59e431"
+        },
+        {
+            "date": 1692590402628,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/errors/phu-2023-21-08-10-error.log",
+            "hash": "d505b047a4ab98749c27ecaf1836ec8dacfd94c0d1e55f2b20323d5b66fd96f0"
         }
     ],
     "hashType": "sha256"

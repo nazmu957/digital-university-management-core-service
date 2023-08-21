@@ -14,6 +14,31 @@
             "date": 1692533109380,
             "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-20-08-18-success.log",
             "hash": "214f4567306acc0a56e06c1417a113d9d5b0cbe1b500b809b7195ea705b8ca8e"
+        },
+        {
+            "date": 1692578675120,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-21-08-06-success.log",
+            "hash": "8f431c9c678b089461916a4d124709ca05ab8dabb9cbaaa457191bda5c89e487"
+        },
+        {
+            "date": 1692579743300,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-21-08-07-success.log",
+            "hash": "50fcadba11a8d3d26a25bedb72c53393bbc16c8f01956f2ee25d41538976b5e5"
+        },
+        {
+            "date": 1692583278385,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-21-08-08-success.log",
+            "hash": "4df738d447ddccaa9de7ee5d92acc7e06227304204e3738d3bf16cef75a3f9da"
+        },
+        {
+            "date": 1692586800425,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-21-08-09-success.log",
+            "hash": "a8a464903f99a90894afa822e2485d2f193f37e3e82f9584f461dde360c550ea"
+        },
+        {
+            "date": 1692590402381,
+            "name": "/Users/macbookpro/Desktop/projects/level2/digital-university-management-core-service/logs/winston/successes/phu-2023-21-08-10-success.log",
+            "hash": "5855d83eb79b44dae3994dc42d7dc7ac5fb8e7d0c34b5e6cf8a44c6dc7c20115"
         }
     ],
     "hashType": "sha256"
