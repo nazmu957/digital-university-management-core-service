@@ -78,10 +78,21 @@ const getAllFromDB = async (
     }
 }
 
+const getDataById = async (id: string): Promise<AcademicSemester | null> => {
+    const result = await prisma.academicSemester.findUnique({
+        where: {
+            id
+        }
+    })
+
+    return result;
+}
+
 
 export const AcademicSemesterService = {
     insertIntoDB,
-    getAllFromDB
+    getAllFromDB,
+    getDataById 
 } 
 
 
